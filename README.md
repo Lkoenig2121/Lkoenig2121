@@ -1,4 +1,7 @@
-### Hi there 👋
+### • Frontend Software Engineer ( 3 years experience )
+### • Employee for DCWD
+### • My Personal Portfolio: https://lukaskoenig.net/
+### • Email: Lkoenig2121@gmail.com
 
 <!--
 **Lkoenig2121/Lkoenig2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
