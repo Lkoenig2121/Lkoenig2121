@@ -1,5 +1,5 @@
 ### • Frontend Software Engineer ( 4 years experience )
-### • Employee for DCWD
+### • Employee for Selene
 ### • My Personal Portfolio: https://lukaskoenig.net/
 ### • Email: Lkoenig2121@gmail.com
 
