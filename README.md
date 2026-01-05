@@ -1,5 +1,4 @@
-### • Frontend Software Engineer ( 5 years experience )
-### • Employee for DCWD
+### • Software Engineer
 ### • My Personal Portfolio: https://lukaskoenig.tech/
 ### • Email: Lkoenig2121@gmail.com
 
