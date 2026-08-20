@@ -1,5 +1,4 @@
 ### • Software Engineer
-### • My Personal Portfolio: https://lukaskoenig.tech/
 ### • Email: Lkoenig2121@gmail.com
 
 <!--
